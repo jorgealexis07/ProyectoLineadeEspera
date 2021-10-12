@@ -1,0 +1,10 @@
+C:\Users\Yo\source\repos\LineadeEspera-SimulacionExponencial\LineadeEspera-SimulacionExponencial\bin\Debug\LineadeEspera-SimulacionExponencial.exe.config
+C:\Users\Yo\source\repos\LineadeEspera-SimulacionExponencial\LineadeEspera-SimulacionExponencial\bin\Debug\LineadeEspera-SimulacionExponencial.exe
+C:\Users\Yo\source\repos\LineadeEspera-SimulacionExponencial\LineadeEspera-SimulacionExponencial\bin\Debug\LineadeEspera-SimulacionExponencial.pdb
+C:\Users\Yo\source\repos\LineadeEspera-SimulacionExponencial\LineadeEspera-SimulacionExponencial\obj\Debug\LineadeEspera-SimulacionExponencial.csprojResolveAssemblyReference.cache
+C:\Users\Yo\source\repos\LineadeEspera-SimulacionExponencial\LineadeEspera-SimulacionExponencial\obj\Debug\LineadeEspera_SimulacionExponencial.Form1.resources
+C:\Users\Yo\source\repos\LineadeEspera-SimulacionExponencial\LineadeEspera-SimulacionExponencial\obj\Debug\LineadeEspera_SimulacionExponencial.Properties.Resources.resources
+C:\Users\Yo\source\repos\LineadeEspera-SimulacionExponencial\LineadeEspera-SimulacionExponencial\obj\Debug\LineadeEspera-SimulacionExponencial.csproj.GenerateResource.cache
+C:\Users\Yo\source\repos\LineadeEspera-SimulacionExponencial\LineadeEspera-SimulacionExponencial\obj\Debug\LineadeEspera-SimulacionExponencial.csproj.CoreCompileInputs.cache
+C:\Users\Yo\source\repos\LineadeEspera-SimulacionExponencial\LineadeEspera-SimulacionExponencial\obj\Debug\LineadeEspera-SimulacionExponencial.exe
+C:\Users\Yo\source\repos\LineadeEspera-SimulacionExponencial\LineadeEspera-SimulacionExponencial\obj\Debug\LineadeEspera-SimulacionExponencial.pdb
